@@ -70,26 +70,6 @@ This repository contains various C projects demonstrating different concepts and
      ```bash
      ./library_management
      ```
-
-### 4. **Tic-Tac-Toe Game**
-
-- **Description:** A simple implementation of the classic Tic-Tac-Toe game for two players.
-- **Features:**
-  - Two-player gameplay.
-  - Board display and win detection.
-- **Technologies:** C
-- **How to Run:**
-  1. Navigate to the `Tic-Tac-Toe` directory:
-     ```bash
-     cd C-Projects/Tic-Tac-Toe
-     ```
-  2. Compile the project:
-     ```bash
-     gcc -o tic_tac_toe main.c
-     ```
-  3. Run the executable:
-     ```bash
-     ./tic_tac_toe
      ```
 
 ## License
